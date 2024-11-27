@@ -4,7 +4,7 @@ This repository contains the collection of my data analysis projects! As a data 
 
 ### LITA_CAPSTONE_PROJECT
 
-### Introduction to the Capstone Project on Human Resources Data Analysis
+### INTRODUCTION TO THE CAPSTONE PROJECT ON HUMAN RESOURCES Data Analysis
 ---
 This Capstone Project undertakes a comprehensive data analysis initiative focused on Human Resources, with the objective of extracting meaningful insights from HR datasets and informing strategic decision-making.
 
@@ -20,8 +20,8 @@ To present findings in a dynamic and user-friendly format, Power BI will be empl
 
 Ultimately, this Capstone Project aims to demonstrate the application of data analysis techniques in Human Resources, enhancing our ability to inform strategic decision-making and drive business outcomes through data-driven insights.
 
-### Project Tittle:  "Unlocking Human Capital Insights: A Data-Driven Approach to Human Resources Analysis"
-
+###ROJECT TITTLE:  "UNLOCKING HUMAN CAPITAL INSIGHTS: A DATA-DRIVEN APPROACH TO HUMAN RESOURCES ANALYSIS"
+---
 [CAPSTONE PROJECT OVERVIEW: HUMAN RESOURCES ANALYTICS](#Capstone_Project_Overview_Human_Resources_Analytics)
 
 [PROJECT OBJECTIVES](#Project_Objectives)
@@ -44,18 +44,16 @@ Ultimately, this Capstone Project aims to demonstrate the application of data an
 
 [CONCLUSION](#Conclusion)
 
-### CAPSTONE PROJECT OVERVIEW: Human Resources Analytics
+### CAPSTONE PROJECT OVERVIEW: HUMAN RESOURCES ANALYTICS
 
 ---
 This Project  will focus on analyzing HR datasets to identify trends, patterns, and correlations with the objective of extracting meaningful insights from HR dataset.
 This is a complete report detailing the findings and insights these includes: Data collection and cleaning, data analysis and visualization using Excel, Google spreadsheet, Power BI, and statistical techniques, identification of key HR metrics and trends and development of data-driven recommendations for informed strategic decision-making and drive business outcomes.
 
-
 ### PROJECT OBJECTIVES
 
 ---
 The objective of this Capstone Project is to apply data analytics techniques to Human Resources (HR) datasets, extracting meaningful insights, enhancing our ability to inform strategic decision-making and drive business intelligence.
-
 
 ### PROJECT SCOPE
 ---
@@ -68,7 +66,6 @@ This project will focus on analyzing HR datasets to extract meaningful insights 
 
 ### EXPECTED OUTCOMES
 ---
-
 1. Improved Understanding of HR Metrics: Gain a deeper understanding of key HR metrics, including employee turnover, retention, diversity, and engagement.
 2. Data-Driven Insights: Extract meaningful insights from HR datasets to inform strategic decision-making and drive business outcomes.
 3. Enhanced Data Analysis Skills: Develop advanced data analysis skills using Excel, Power BI, and statistical techniques.
@@ -77,6 +74,116 @@ This project will focus on analyzing HR datasets to extract meaningful insights 
 6. Improved HR Decision-Making: Inform HR decision-making with data-driven insights, leading to improved outcomes and business results.
 7. Development of a HR Analytics Framework: Establish a framework for HR analytics, including data collection, analysis, and reporting.
 
-### Attrition by Deprtment Human Resources 
-![HR Dept](https://github.com/user-attachments/assets/4446e79d-0187-4ecb-942c-119674f6366a)
+
+### DATA SOURCES
+---
+Human Resources (HR) Datasets
+
+### METRICS OF FOCUS
+---
+Metrics of Focus:
+
+1. Employee Turnover Rate: Measure the rate at which employees leave the organization.
+2. Employee Retention Rate: Measure the rate at which employees remain with the organization.
+3. Diversity and Inclusion Metrics: Measure the diversity of the workforce, including metrics such as gender, ethnicity, and age.
+4. Employee Engagement: Measure the level of engagement and satisfaction among employees.
+5. Training and Development Effectiveness: Measure the effectiveness of training and development programs in improving employee performance.
+6. Time-to-Hire: Measure the time it takes to fill open positions.
+7. Cost-per-Hire: Measure the cost associated with hiring new employees.
+8. Employee Satisfaction: Measure the level of satisfaction among employees.
+9. Net Promoter Score (eNPS): Measure the likelihood of employees to recommend the organization as a place to work.
+10. Return on Investment (ROI) for HR Initiatives: Measure the financial return on investment for HR initiatives such as training and development programs.
+
+### HUMAN RESOURCES DATA ANALYSIS TRACKER
+--- 
+- ATTRITION 1
+<img width="769" alt="HR Data tracker" src="https://github.com/user-attachments/assets/87897c87-b94e-4e57-ac92-2b5c399109fa">
+
+- ATTRITION 2
+---
+<img width="766" alt="HR Data 2" src="https://github.com/user-attachments/assets/a8d3e530-8a75-4a38-b601-ff45f4b320e4">
+
+- CURRENT EMPLOYEE
+---
+<img width="772" alt="HR Data 3" src="https://github.com/user-attachments/assets/2ca470ea-85d1-434a-9b48-0de948fda689">
+
+### HUMAN RESOURCES DEPARTMENT
+----
+<img width="764" alt="HR Dept" src="https://github.com/user-attachments/assets/f2403d67-df0e-4e51-aea0-be67dda85f7c">
+
+### LIFE SCIENCE DEPARTMENT
+---
+<img width="760" alt="Life Science Dept" src="https://github.com/user-attachments/assets/000bce26-f34c-4b6e-b564-a769ca7da24a">
+
+### AGE GROUPS & GENDER IN LIFE SCIENCE DEPARTMENT 
+---
+<img width="764" alt="Life Science 1" src="https://github.com/user-attachments/assets/98da43c9-00c0-48d2-a6f9-719c6672d270">
+
+### CURRENT EMPLOYEES IN LIFE SCIENCE DEPARTMENT  
+---
+<img width="767" alt="Life science 2" src="https://github.com/user-attachments/assets/47b26a35-eed0-4095-bae2-7a7539a13286">
+
+
+### SALES DEPARTMENT
+---
+<img width="755" alt="Sales Dept" src="https://github.com/user-attachments/assets/1e41c04d-0bcd-48fb-8e3a-69f9789ecb61">
+
+### AGE GROUPS AND GENDER IN SALES DEPARTMENT
+---
+<img width="776" alt="sales 1" src="https://github.com/user-attachments/assets/d952b2ec-d4a4-4b82-9a4a-6729f3950b96">
+
+### CURRENT EMPLOYEES IN SALES DEPARTMENT
+---
+<img width="776" alt="sales 1" src="https://github.com/user-attachments/assets/b230b2c6-bc5c-4002-a6af-f2f5b8213034">
+
+### CLINICAL DEPARTMENT
+---
+<img width="766" alt="image" src="https://github.com/user-attachments/assets/a813ac72-e3ca-4947-9709-1a002330a4b4">
+
+### AGE GROUPS AND GENDER IN CLINICAL DEPARTMENT
+---
+<img width="785" alt="medical 1" src="https://github.com/user-attachments/assets/c7b223f9-2e24-4b6a-ba75-fe5c7703572e">
+
+### CURRENT EMPLOYEES IN CLINICAL DEPARTMENT
+---
+<img width="783" alt="Medical 2" src="https://github.com/user-attachments/assets/9a070d43-d41c-41a1-8a5c-e145f3a0d8e0">
+
+### TECHNICAL DEGREE DEPARTMENT
+---
+<img width="766" alt="Tech Degree" src="https://github.com/user-attachments/assets/95074610-5ae4-4edc-a93c-71f1abf4c40c">
+
+### AGE GROUPS AND GENDER IN TECHNICAL DEGREE DEPARTMENT
+---
+<img width="788" alt="Tech Degree 1" src="https://github.com/user-attachments/assets/9851a73f-b0e9-43c6-869d-c51757ee296b"> 
+
+### CURRENT EMPLOYEES IN TECHNICAL DEGREE DEPARTMENT
+---
+<img width="790" alt="Tech Degree 2" src="https://github.com/user-attachments/assets/dc175ede-00f9-4e4c-88bf-dd14210f55c5">
+
+### OTHER DEPARTMENT
+---
+<img width="765" alt="image" src="https://github.com/user-attachments/assets/38002584-514a-42cd-a222-ce16631b9f59">
+
+### AGE GROUPS AND GENDER IN OTHER DEPARTMENT
+---
+<img width="774" alt="Other 1" src="https://github.com/user-attachments/assets/81f654e2-b1a8-4425-90e1-781556296982">
+
+### ### CURRENT EMPLOYEES IN OTHER DEPARTMENT
+---
+<img width="814" alt="Other 2" src="https://github.com/user-attachments/assets/b90d892b-a6f6-491c-a97e-0953edf47f0d">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
