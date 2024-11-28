@@ -172,6 +172,44 @@ Metrics of Focus:
 ---
 <img width="814" alt="Other 2" src="https://github.com/user-attachments/assets/b90d892b-a6f6-491c-a97e-0953edf47f0d">
 
+### HEALTH CARE REPRESENTATIVE ACROSS JOB ROLE
+===
+<img width="621" alt="Job role H" src="https://github.com/user-attachments/assets/2bd8d65d-d38c-44c3-aabc-2edfb738db03">
+
+### AGE GROUP OF HEALTH CARE REPRESENTATIVE ACROSS JOB ROLE
+---
+<img width="789" alt="Job Role Hcare represent 1" src="https://github.com/user-attachments/assets/f3eeeccd-01da-49b0-b10c-6d4b7cfc2367">
+
+### NUMBER OF EMPLOYEES IN HUMAN RESOURCES DEPARTMENT
+---
+<img width="632" alt="Job Role HR" src="https://github.com/user-attachments/assets/0249b322-954e-4866-930a-2c81f4e7f912">
+
+### AGE GROUP OF EMPLOYEES IN HUMAN RESOURCES DEPARTMENT
+---
+<img width="622" alt="image" src="https://github.com/user-attachments/assets/43c7a51d-176e-4d0e-b3cb-a51eb26e1e39">
+
+### LABORATORY TECHNICIAN ACROSS DEPARTMENT
+---
+<img width="622" alt="Job Role LAB Tech " src="https://github.com/user-attachments/assets/3a8b4823-a2ea-4e92-9c2f-fc10d65e5226"> 
+
+### LABORATORY TECHNICIAN ACROSS DEPARTMENT BY AGE GROUP
+---
+<img width="960" alt="Job Role Lab Tech 1" src="https://github.com/user-attachments/assets/c7515687-3b37-4e92-ab4d-1d0f6db0d7c3">
+
+### MANAGERS ACROSS DEPARTMENTS
+---
+<img width="620" alt="MGR Job Role" src="https://github.com/user-attachments/assets/7329fc89-5c9a-4893-b025-d3253e6287b4">
+
+### AGE GROUP OF MANAGERS ACROSS DEPARTMENTS
+---
+<img width="790" alt="Job Role Mgr 1" src="https://github.com/user-attachments/assets/53ae99d3-0cc4-411b-8d21-a699477b3130">
+
+
+
+
+
+
+
 
 
 
