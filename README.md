@@ -20,7 +20,7 @@ To present findings in a dynamic and user-friendly format, Power BI will be empl
 
 Ultimately, this Capstone Project aims to demonstrate the application of data analysis techniques in Human Resources, enhancing our ability to inform strategic decision-making and drive business outcomes through data-driven insights.
 
-###ROJECT TITTLE:  "UNLOCKING HUMAN CAPITAL INSIGHTS: A DATA-DRIVEN APPROACH TO HUMAN RESOURCES ANALYSIS"
+### ROJECT TITTLE:  "UNLOCKING HUMAN CAPITAL INSIGHTS: A DATA-DRIVEN APPROACH TO HUMAN RESOURCES ANALYSIS"
 ---
 [CAPSTONE PROJECT OVERVIEW: HUMAN RESOURCES ANALYTICS](#Capstone_Project_Overview_Human_Resources_Analytics)
 
@@ -203,6 +203,16 @@ Metrics of Focus:
 ### AGE GROUP OF MANAGERS ACROSS DEPARTMENTS
 ---
 <img width="790" alt="Job Role Mgr 1" src="https://github.com/user-attachments/assets/53ae99d3-0cc4-411b-8d21-a699477b3130">
+
+### MARITAL STATUS OF EMPLOYEES
+---
+<img width="145" alt="HR Data 4 Marital" src="https://github.com/user-attachments/assets/6dce0298-19cf-47f9-8276-8d807d974526">
+
+### COUNT OF EMPLOYEE HIGHEST EDUCATIONAL LEVEL
+---
+<img width="126" alt="HR Data 4 E" src="https://github.com/user-attachments/assets/1e5884e7-fae8-43c7-a043-2109f9edde26">
+
+
 
 
 
