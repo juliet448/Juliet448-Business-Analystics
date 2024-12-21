@@ -99,13 +99,140 @@ Metrics of Focus:
 - ATTRITION 1
 <img width="769" alt="HR Data tracker" src="https://github.com/user-attachments/assets/87897c87-b94e-4e57-ac92-2b5c399109fa">
 
-- ATTRITION 2
+# Overall Attrition
+- Total employees: 1470
+- Total attrition count: 237
+- Attrition rate: 16%
+- Average length of service: 37
+
+# Attrition by Department
+- HR: 12 (5.06%)
+- Sales: 93 (3.009%)
+- R&D: 133 (56.12%)
+    - R&D has the highest attrition rate, indicating potential issues with job satisfaction, work environment, or compensation.
+
+# Attrition by Educational Field
+- Life Science: 98
+- Medical: 63
+- Marketing: 35
+- Technical degree: 32
+- Others: 11
+- HR: 7
+    - Life Science and Medical fields have the highest attrition counts, potentially indicating a competitive job market or dissatisfaction with company offerings.
+
+# Attrition by Gender
+- Female: 87 (36.71%)
+- Male: 150 (63.29%)
+    - Males have a higher attrition count and percentage, which may indicate differences in job satisfaction, work-life balance, or career advancement opportunities.
+ 
+# Attrition by Age Band
+- Under 25: 38
+- 25-34: 112
+- 35-44: 51
+- 45-54: 25
+- Over 55: 11
+    - The 25-34 age band has the highest attrition count, potentially indicating a desire for career advancement, better work-life balance, or more competitive compensation.
+
+In summary:
+
+The company has:
+
+- 1470 total employees
+- 237 total attrition count (16% attrition rate)
+
+# KEY AREA FOR IMPROVEMENT:
+
+- R&D department (56.12% attrition rate)
+- Life Science and Medical educational fields
+- Male employees (63.29% attrition count)
+- 25-34 age band (112 attrition count)
+
+These areas may require attention to improve job satisfaction, retention, and overall employee experience.
+
+- BASED ON AGE GROUP AND GENDER
 ---
 <img width="766" alt="HR Data 2" src="https://github.com/user-attachments/assets/a8d3e530-8a75-4a38-b601-ff45f4b320e4">
+
+# OBSERVAATIONS: 
+Based on findings of the attrition counts by age group and gender
+1. The 25-34 age group has the highest attrition count for both females (43) and males (69).
+2. Males have a higher attrition count than females in all age groups except for the under 25 group, where the counts are nearly equal.
+3. The attrition count decreases with increasing age, with the over 55 age group having the lowest count.
+
+# RECOMMENDATION BASED ON THE ATTRITION ANALYSIS:
+
+# Diversity-Focused Initiatives
+1. Organise retention programs: Develop programs to retain females in the 25-34 age group, such as flexible work arrangements, mentorship, and career development opportunities.
+2. Male-dominated age groups: Investigate reasons for high male attrition in the 25-34 and 35-44 age groups, and develop strategies to address these issues.
+
+# DevelopmentaL Stage Strategies
+1. Early career support: Provide training, mentorship, and clear career paths for employees under 25 to reduce attrition.
+2. Mid-career development: Offer leadership development, training, and opportunities for growth for employees in the 25-44 age groups.
+3. Late-career engagement: Implement strategies to engage and retain employees over 55, such as flexible work arrangements, knowledge transfer programs, and recognition.
+
+# summary of the recommendations:
+
+# Collaborative Initiatives
+
+1. Exit interviews: Conduct thorough exit interviews to understand reasons for attrition and identify patterns.
+2. Employee engagement: Regularly measure employee engagement and satisfaction to identify areas for improvement.
+3. Competitive compensation and benefits: Ensure compensation and benefits are competitive to attract and retain top talent.
+4. Diversity, equity, and inclusion: Foster a culture of inclusivity, respect, and equal opportunities to reduce attrition and improve overall employee experience.
+
+#  Diversity-Focused Initiatives
+1. Targeted retention programs for females (25-34 age group)
+2. Investigate high male attrition in 25-34 and 35-44 age groups
+
+# DevelopmentaL Stage Strategies
+1. Early career support for under 25
+2. Mid-career development for 25-44 age groups
+3. Late-career engagement for over 55
+
+# Collaborative Initiatives
+1. Conduct exit interviews
+2. Measure employee engagement and satisfaction
+3. Ensure competitive compensation and benefits
+4. Foster a culture of diversity, equity, and inclusion
+
+# ADVISE
+
+ -  It is recommended that the organization implement targeted retention programs tailored to specific demographics and age groups to mitigate attrition rates.
+
+-   Furthermore, fostering a culture of inclusivity, diversity, and equity is essential in creating a positive work environment that promotes employee satisfaction and retention.
+-   Employee-centric strategies should be developed to address the unique needs of different demographics and age groups, ensuring a supportive and inclusive work environment.
+
+-   Cross-functional collaboration should be encouraged to facilitate organization-wide initiatives and break down silos.
+
+-   Regular assessments and evaluations should be conducted to monitor attrition rates, employee engagement, and satisfaction, informing strategic refinements and improvements.
 
 - CURRENT EMPLOYEE
 ---
 <img width="772" alt="HR Data 3" src="https://github.com/user-attachments/assets/2ca470ea-85d1-434a-9b48-0de948fda689">
+
+Here is The Analysis of Current Employee:
+
+# Demographic Analysis
+The organization's workforce comprises 1,233 employees, with a gender distribution of 62% males and 38% females across all age groups. The age distribution reveals a concentration of employees within the 25-44 age range, accounting for 55% of the total workforce.
+
+# Job Satisfaction Assessment
+The job satisfaction survey indicates that 52% of employees are very satisfied, while 46% express dissatisfaction or very dissatisfaction. The satisfaction ratings are categorized as follows:
+- Very Satisfied: 52 employees (4.2% of total employees)
+- Satisfied: 73 employees (5.9% of total employees)
+- Dissatisfied: 46 employees (3.7% of total employees)
+- Very Dissatisfied: 66 employees (5.4% of total employees)
+
+# Educational Field Distribution
+The data reveals an uneven distribution of employees across educational fields:
+
+- Educational Field 1: 66 employees 
+- Educational Field 2: 46 employees
+- Educational Field 3: 73 employees
+- Educational Field 4: 52 employees
+  
+1. The organization's workforce exhibits a gender imbalance, with males outnumbering females in all age groups.
+2. The age distribution is skewed, with a concentration of employees within the 25-44 age range.
+3. A significant proportion of employees express dissatisfaction or very dissatisfaction, indicating potential issues with employee engagement and retention.
+4. The distribution of employees across educational fields is uneven, which may impact the organization's ability to leverage diverse skill sets and expertise.
 
 ### HUMAN RESOURCES DEPARTMENT
 ----
